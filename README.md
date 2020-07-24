@@ -16,7 +16,7 @@ Preview ->>> (deleted)
 
 Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel (ça peux vous être utile pour la configuration))
 
-# _________________________________________________________________
+# _______________________________________________________________
 
 English: (translate.google.com)
 
